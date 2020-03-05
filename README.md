@@ -1,20 +1,18 @@
 
 # Decentralized News Publishing
 
-Decentralized News Publishing
-
 ## Description
 
 Backend app for collaborative news creation.
 
 ## Specification
 
-GraphQL app.
+GraphQL API for CRUD operations.
 
 ## Technology Stack
 
 * FastAPI - because it is fast, asynchronous and pluggable;
 
-* Ariadne - uses the Schema Definition Language;
+* Ariadne - because it uses the GraphQL Schema Definition Language;
 
 * MongoDB
